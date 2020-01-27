@@ -36,7 +36,7 @@ six==1.14.0
 smmap2==2.0.5
 sqlparse==0.3.0
 uritemplate==3.0.1
-urllib3==1.25.7
+urllib3==1.25.8
 zipp==2.0.0
 zope.interface==4.7.1
 git+https://github.com/RockefellerArchiveCenter/asterism@v0.1#egg=asterism
