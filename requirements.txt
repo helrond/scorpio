@@ -82,12 +82,8 @@ six==1.16.0
     #   python-dateutil
 smmap==4.0.0
     # via gitdb
-sqlparse==0.4.1
+sqlparse==0.4.2
     # via django
-typing-extensions==3.10.0.0
-    # via
-    #   asgiref
-    #   gitpython
 urllib3==1.26.6
     # via
     #   elasticsearch
