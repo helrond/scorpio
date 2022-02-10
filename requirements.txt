@@ -20,7 +20,7 @@ clinner==1.12.3
     # via health-check
 colorlog==3.2.0
     # via clinner
-django==3.2.10
+django==3.2.12
     # via
     #   -r requirements.in
     #   asterism
@@ -84,10 +84,6 @@ smmap==4.0.0
     # via gitdb
 sqlparse==0.4.2
     # via django
-typing-extensions==3.10.0.2
-    # via
-    #   asgiref
-    #   gitpython
 urllib3==1.26.6
     # via
     #   elasticsearch
