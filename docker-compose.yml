@@ -24,7 +24,7 @@ services:
       - scorpio-db
 
   elasticsearch:
-    image: elasticsearch:7.17.25
+    image: elasticsearch:8.17.2
     environment:
       - node.name=elasticsearch
       - discovery.seed_hosts=elasticsearch
